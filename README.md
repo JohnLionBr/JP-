@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Pedro
 - Programador Front-End
-- Estudando JavaScript
+- Estudando React
 
 <div>
   <a href="https://github.com/JohnLionBr">
